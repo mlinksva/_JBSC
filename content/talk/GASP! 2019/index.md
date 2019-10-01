@@ -7,6 +7,5 @@ publication_types = ["0"]
 abstract = """Open source software allows free access to digital tools and constitutes a part of intangible investment with the qualities of public goods. Open source software (OSS) provides users with an unknown amount of freely modifiable software tools and other useful products; they are created both within the business sector and outside of it. Better accounting for the contribution of public spending to investments in OSS, a vital component of science activity, motivates this paper. We develop a bottom-up approach to document the scope and impact of OSS created by all sectors of the economy by collecting data on OSS languages R and Python, as well as from the Federal Government’s Code. gov.
 """
 featured = true
-event = "Government Advances in Statistical Programming (GASP!) Workshop"
-location = "Bureau of Labor Statistics, 2 Massachusetts Avenue, NE, Washington, DC 20212"
+location = "Government Advances in Statistical Programming (GASP!) Workshop, Bureau of Labor Statistics, 2 Massachusetts Avenue, NE, Washington, DC 20212"
 +++
