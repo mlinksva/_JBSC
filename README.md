@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dddbd047-4a3f-450f-a38d-1c2444bacedb/deploy-status)](https://app.netlify.com/sites/jbsc/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/95271016-0b90-48e7-b8df-adf406ae6e4a/deploy-status)](https://app.netlify.com/sites/jbsc/deploys)
 
 # José Bayoán Santiago Calderón Personal Website
 
