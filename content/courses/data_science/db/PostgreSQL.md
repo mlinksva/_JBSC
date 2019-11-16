@@ -8,7 +8,6 @@ date: "2019-10-01"
 lastmod: "2019-10-01"
 menu:
   data_science:
-    parent: Data Science
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Data Science
+linktitle: Opportunities for students
 summary:
-weight: 2
+weight: 1
 
 # Page metadata.
-title: Data Science
+title: Summer programs for students
 date: "2018-11-16T00:00:00Z"
 lastmod: "2018-11-16T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -18,4 +18,4 @@ type: docs  # Do not modify.
 menu:
 ---
 
-A crash course on data science.
+The programs featured in this section are targeted at undergraduate and graduate students. I have personally been involved as a participant in these programs and highly recommend them.
