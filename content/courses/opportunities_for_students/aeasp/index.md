@@ -1,6 +1,6 @@
 ---
-title: American Economics Association Summer Program
-linktitle: American Economics Association Summer Program
+title: American Economic Association Summer Program
+linktitle: American Economic Association Summer Program
 toc: true
 type: docs
 draft: false
@@ -16,7 +16,7 @@ weight: 2
 
 # AEASP
 
-The American Economics Association Summer Program (AEASP) is a summer experience for *undergraduate* and *graduate* students from under-represented minority groups in the economics profession (e.g., women, Black, Latinos, Puerto Ricans, LGTBQ+, etc.).
+The American Economic Association Summer Program (AEASP) is a summer experience for *undergraduate* and *graduate* students from under-represented minority groups in the economics profession (e.g., women, Black, Latinos, Puerto Ricans, LGTBQ+, etc.).
 
 The program offers two tracks: a foundation and an advanced track.
 
