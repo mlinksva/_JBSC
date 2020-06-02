@@ -35,7 +35,7 @@ date_format = "2006-01"
   company_url = "https://pumas.ai/"
   location = "Baltimore, MD"
   date_start = "2018-09-01"
-  description = """Pumas is a Julia-based platform for pharmaceutical modeling and simulation. As a developer, I contributed to the module for data parsing and design data specification (i.e., parsing industry standard data, describing subjects, covariates, dosage regimens,events, observations, and population) and developed the module for conducting bioequivalence analysis. Lastly, I support the consulting services branch of the company.
+  description = """Pumas is a Julia-based platform for pharmaceutical modeling and simulation. As a developer, I contributed to the module for data parsing and design data specification (i.e., parsing industry standard data, describing subjects, covariates, dosage regimens, events, observations, and population) and developed the module for conducting bioequivalence analysis. Lastly, I support the consulting services branch of the company.
 
   Supervisor: [Vijay Ivaturi, PhD](https://pumas.ai/)
   """
