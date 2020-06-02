@@ -7,6 +7,6 @@ publication = "35th International Association for Research in Income and Wealth 
 abstract = """Open source software is everywhere, both as specialized applications nurtured by devoted user communities, and as digital infrastructure underlying platforms used by millions daily. This type of software is developed, maintained, and extended both within the private sector and outside of it, through the contribution of people from businesses, universities, government research institutions, nonprofits, and as individuals. This paper proposes and prototypes a method to document the scope and impact of open source software created by these sectors, thereby extending existing measures of publicly-funded research output. We estimate the cost of developing packages for the open source software languages R, Python, Julia, and JavaScript, as well as re-use statistics for R packages. These reuse statistics are measures of relative value. We estimate that the resource cost for developing R Python, Julia, and JavaScript exceeds $3 billion dollars, based on 2017 costs. 
 """
 location = "Copenhagen, Denmark"
-featured = true
+featured = false
 url_pdf = "https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=16290588106234930952"
 +++

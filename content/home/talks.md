@@ -10,6 +10,9 @@ weight = 5  # Order that this section will appear.
 title = "Recent & Upcoming Talks"
 subtitle = ""
 
+date_format = "2006-01"
+time_format = "15:04"
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"

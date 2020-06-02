@@ -24,21 +24,28 @@ date_format = "2006-01"
   location = "Arlington, VA"
   date_start = "2019-05-01"
   date_end = ""
-  description = """
+  description = """My projects include a cooperative agreement with the National Center for Science and Engineering Statistics (NCSES) and work with the Defense Advanced Research Projects Agency (DARPA) on the Computational Simulation of Online Social Behavior (SocialSim) challenge. I also work closely with the Research Computing support team at the University of Virginia to ensure our team has access and knowledge to effectively use available computing resources for our research. During the Data Science for the Public Good Young Scholars summer program, I co-teach some of the lessons during the training as well as participate in various projects.
 
   Supervisor: [Sallie Keller, PhD](https://biocomplexity.virginia.edu/sallie-keller)
   """
 
 [[experience]]
-  title = "Scientific Computing Intern"
-  company = "Center for Translation Medicine at the University of Maryland Baltimore"
+  title = "Consultant"
+  company = "Pumas AI"
   company_url = "https://pumas.ai/"
   location = "Baltimore, MD"
   date_start = "2018-09-01"
-  date_end = "2019-08-31"
-  description = """As a scientific computing intern, I contribute to the data generation and processing tools for various modeling designs (e.g., PK/PD, PBPK, QSP) and for conducting bioequivalence studies. The code will be released in early 2019 as open-source. Projects are under the supervision of professor Vijay Ivaturi and Chris Rackauckas.
+  description = """Pumas is a Julia-based platform for pharmaceutical modeling and simulation. As a developer, I contributed to the module for data parsing and design data specification (i.e., parsing industry standard data, describing subjects, covariates, dosage regimens,events, observations, and population) and developed the module for conducting bioequivalence analysis. Lastly, I support the consulting services branch of the company.
 
   Supervisor: [Vijay Ivaturi, PhD](https://pumas.ai/)
+  """
+
+[[experience]]
+  title = "Member"
+  company = "ZiF Cooperation Group"
+  company_url = "https://www.uni-bielefeld.de/(en)/ZiF/KG/2019StatModels"
+  date_start = "2020-02-01"
+  description = """Participated in the Workshop II on Mixed Models in the Julia Programming Language convened by Reinhold Kliegl (Potsdam, GER) and Douglas Bates (Madison, USA). The activities included hackatons, presentations, and workshops we offered to researchers working with psycholinguistics data.
   """
 
 [[experience]]
@@ -56,7 +63,7 @@ date_format = "2006-01"
 [[experience]]
   title = "Graduate Fellow for the Data Science for the Public Good Program"
   company = "Social and Decision Analytics Laboratory"
-  company_url = "https://www.bi.vt.edu/sdal/"
+  company_url = "https://web.archive.org/web/20190102202953/https://www.bi.vt.edu/sdal"
   location = "Arlington, VA"
   date_start = "2018-05-21"
   date_end = "2018-08-10"
@@ -72,7 +79,7 @@ date_format = "2006-01"
   location = "Portland, OR"
   date_start = "2016-09-13"
   date_end = "2018-09-13"
-  description = """I assisted with analytical modeling and software integration. Some of my experiences include working in the team that developed the data validation and preprocessing for the analytic tools provided in the software. My work focused on the designed and implementation of the algorithms used in prediction and benchmarks for energy and water utility accounts (performed using R).
+  description = """Conducted aprogram evaluation of the California Advanced Home Program (CAHP) commissioned by Southern California Edison and developed the module for residential benchmarking. The work was performed using R and SQL. It included working with utility account billing data (e.g., grid, gas, solar, water), property data, and climate and weather data from the Global Historical Climate Network for the state of California. The module included an adapted version of the Energy Star Portfolio Manager methodology.
 
   Supervisor: [Hal Nelson, PhD](https://www.pdx.edu/hatfieldschool/hal-nelson)
   """
@@ -84,7 +91,7 @@ date_format = "2006-01"
   location = "Claremont, CA"
   date_start = "2014-09-15"
   date_end = "2016-05-15"
-  description = """I performed various roles such as: recruiting participants, conducting design-stage research, piloting laboratory experiments, running experiments, and cleaning and analyzing data. The laboratory experiments included administrating drugs, collecting blood samples, eye-tracking, electroencephalogram (EEG), electrocardiogram (ECG), and standard experimental laboratory studies.
+  description = """Helped design and run experiments as well as collect and clean data for several projects leading in neuroeconomics. My tasks included advertisement, recruitment, staff management, supervision, training, drug administration, payments, storage of samples, data cleaning, etc. I worked with tools such as z-Tree for computer experiments as well as eye tracking, electroencephalography (EEG), electrocardiogram (ECG), and electrodermalactivity (EDA/GSR) through BIOPAC and iMotion.
 
   Supervisor: [Paul J. Zak, PhD](https://www.pauljzak.com/)
   """

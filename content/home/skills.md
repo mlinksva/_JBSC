@@ -37,12 +37,16 @@ subtitle = ""
 
   Scientific Computing
 
-  Software Development"""
+  Software Development
+  """
 
 [[feature]]
   icon = "capsules"
   icon_pack = "fas"
   name = "Pharmacokinetics"
-  description = "Computational Bioequivalence"
-
+  description = """
+  Bioequivalence
+  
+  Survival Analysis
+  """
 +++
