@@ -18,7 +18,7 @@ organizations:
   url: "https://biocomplexity.virginia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 🇵🇷 Economist by tranining. Data scientist / software developer by accident.
+bio: 🇵🇷 Economist by training. Data scientist / software developer by accident.
 
 interests:
 - Computational Economics
