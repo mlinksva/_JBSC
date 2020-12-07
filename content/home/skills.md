@@ -20,24 +20,40 @@ subtitle = ""
   name = "Statistics, Data Science, Machine Learning"
   description = """
   Regression Analysis
+  
+  Econometrics
 
-  Agent-Based Modeling (ABM)
+  Scalable Data Analysis
 
-  Geographic Information Systems (GIS)
-
-  Natural Language Processing (NLP)
   """
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = """Julia, Python, and R"""
+  name = """Julia, Python, R, Git, SQL, Linux CLI"""
   description = """
-  Data Science
 
   Scientific Computing
 
   Software Development
+
+  High-Performance Computing (HPC)
+  
+  Cloud Computing
+  """
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = """Methods"""
+  description = """
+  Agent-Based Modeling (ABM)
+
+  Geographic Information Systems (GIS)
+
+  Text Mining
+  
+  Natural Language Processing (NLP)
   """
 
 # Uncomment to use emoji icons.
