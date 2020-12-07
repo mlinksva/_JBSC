@@ -24,28 +24,21 @@ date_format = "2006-01"
   location = "Arlington, VA"
   date_start = "2019-05-01"
   date_end = ""
-  description = """My projects include a cooperative agreement with the National Center for Science and Engineering Statistics (NCSES) and work with the Defense Advanced Research Projects Agency (DARPA) on the Computational Simulation of Online Social Behavior (SocialSim) challenge. I also work closely with the Research Computing support team at the University of Virginia to ensure our team has access and knowledge to effectively use available computing resources for our research. During the Data Science for the Public Good Young Scholars summer program, I co-teach some of the lessons during the training as well as participate in various projects.
+  description = """My main projects include work on projects with the National Center for Science andEngineering Statistics (NCSES) and the Defense Advanced Research Projects Agency(DARPA). My NCSES work includes a project on measuring the scope and impact ofopen source software through mining software repositories, applying cost-based valua-tion, sectoring contributions through a national accounts framework, and social networkanalysis on collaboration networks. Another NCSES project includes understanding theskilled-technical workforce pathways and impact of non-degree credentials using onlinejob advertisements and resumes. My third main project is DARPA’s ComputationalSimulation of Online Social Behavior (SocialSim) challenge developing platforms for high-fidelity computational simulation of online social behavior and understanding the life-cycleof narratives on social media. I also support our team’s infrastructure working closelywith Research Computing to ensure our team has access and knowledge to effectively useavailable computing resources for our research (e.g., high performance computing). Lastly,during the Data Science for the Public Good Young Scholars summer program, I co-teachsome of the lessons during the training as well as participate or lead various projects.
 
   Supervisor: [Sallie Keller, PhD](https://biocomplexity.virginia.edu/sallie-keller)
   """
 
 [[experience]]
-  title = "Consultant"
+  title = "Statistics Consultant"
   company = "Pumas AI"
   company_url = "https://pumas.ai/"
   location = "Baltimore, MD"
   date_start = "2018-09-01"
-  description = """Pumas is a Julia-based platform for pharmaceutical modeling and simulation. As a developer, I contributed to the module for data parsing and design data specification (i.e., parsing industry standard data, describing subjects, covariates, dosage regimens, events, observations, and population) and developed the module for conducting bioequivalence analysis. Lastly, I support the consulting services branch of the company.
+  date_end = "2020-12-31"
+  description = """Pumas is a Julia-based platform for pharmaceutical modeling and simulation. As adeveloper, I contributed to the module for data parsing and design data specification (i.e.,parsing industry standard data, describing subjects, covariates, dosage regimens, events,observations, and population) and developed the module for conducting bioequivalenceanalysis. I also supported the consulting services branch of the company.
 
-  Supervisor: [Vijay Ivaturi, PhD](https://pumas.ai/)
-  """
-
-[[experience]]
-  title = "Member"
-  company = "ZiF Cooperation Group"
-  company_url = "https://www.uni-bielefeld.de/(en)/ZiF/KG/2019StatModels"
-  date_start = "2020-02-01"
-  description = """Participated in the Workshop II on Mixed Models in the Julia Programming Language convened by Reinhold Kliegl (Potsdam, GER) and Douglas Bates (Madison, USA). The activities included hackatons, presentations, and workshops we offered to researchers working with psycholinguistics data.
+  Supervisor: [Vijay Ivaturi, PhD](https://pumas.ai/company/about-us#team)
   """
 
 [[experience]]
@@ -81,7 +74,7 @@ date_format = "2006-01"
   date_end = "2018-09-13"
   description = """Conducted aprogram evaluation of the California Advanced Home Program (CAHP) commissioned by Southern California Edison and developed the module for residential benchmarking. The work was performed using R and SQL. It included working with utility account billing data (e.g., grid, gas, solar, water), property data, and climate and weather data from the Global Historical Climate Network for the state of California. The module included an adapted version of the Energy Star Portfolio Manager methodology.
 
-  Supervisor: [Hal Nelson, PhD](https://www.pdx.edu/hatfieldschool/hal-nelson)
+  Supervisor: [Hal Nelson, PhD](https://www.pdx.edu/public-administration/profile/hal-nelson)
   """
 
 [[experience]]

@@ -21,7 +21,7 @@ For single machines one of the best implementations of OS-level virtualization i
 <center>
   <a href="https://www.docker.com/">
     <img
-      src="/img/docker.png"
+      src="/media/docker.png"
       alt="Docker: Moby Dock whale logo"
       width="350px"
     />

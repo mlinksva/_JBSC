@@ -2,7 +2,7 @@
 
 # José Bayoán Santiago Calderón Personal Website
 
-This repository has the source code for https://jbsc.netlify.com/
+This repository has the source code for https://jbsc.netlify.app/
 
 # Tools
 

@@ -18,7 +18,7 @@ Version control is essential for data science and software development. A simple
 <center>
   <a href="http://github.com/">
     <img
-      src="/img/github.png"
+      src="/media/github.png"
       alt="GitHub: Octocat"
       width="500px"
     />

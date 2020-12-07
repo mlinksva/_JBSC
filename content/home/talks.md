@@ -10,9 +10,6 @@ weight = 5  # Order that this section will appear.
 title = "Recent & Upcoming Talks"
 subtitle = ""
 
-date_format = "2006-01"
-time_format = "15:04"
-
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
@@ -31,6 +28,7 @@ time_format = "15:04"
     tag = ""
     category = ""
     publication_type = ""
+    author = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
@@ -57,7 +55,7 @@ time_format = "15:04"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "background.jpg"  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).

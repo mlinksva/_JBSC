@@ -18,7 +18,7 @@ A Relational Database Management System (RDBMS) is software that implements a di
 
 <center>
   <img
-    src="/img/postgres.png"
+    src="/media/postgres.png"
     alt="Postgresql elephant: Slonik"
     width="500px"
   />
@@ -28,7 +28,7 @@ For most cases, PostgreSQL (or Postgres) is one of the best solutions and provid
 
 <center>
   <img
-    src="/img/postgis.png"
+    src="/media/postgis.png"
     alt="Postgis Logo"
     width="200px"
     copyright="Under Fair Use from Refractions Research - Artist: Lana Lounsbury for PostGIS"
@@ -36,7 +36,7 @@ For most cases, PostgreSQL (or Postgres) is one of the best solutions and provid
 </center>
 
 
-[pgAdmin](https://www.pgadmin.org/): the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world, is a great tool to use with PostgreSQL. It can be used through Docker with [dpage/pgadmin4:latest](https://hub.docker.com/r/dpage/pgadmin4/).
+[pgAdmin](https://www.pgadmin.org/): the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world, is a great tool to use with PostgreSQL.
 
 Try it out locally!
 
@@ -46,9 +46,6 @@ A few hints,
 - For PostgreSQL
   - Make the publishing port the default `5432:5432`
   - Map a volume for persistency (e.g., `/data:~/MEGAsync/db/postgres12`).
-- For pgAdmin, don't forget to the required environmental variables
-  - `PGADMIN_DEFAULT_EMAIL`
-  - `PGADMIN_DEFAULT_PASSWORD`
 - The host name/address would be `host.docker.internal`
 - The default username and password are `postgres`.
 
