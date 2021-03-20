@@ -1,6 +1,6 @@
 +++
 title = "Econometrics.jl"
-date = 2019-09-22
+date = 2020-07-26
 authors = ["José Bayoán Santiago Calderón"]
 publication_types = ["1"]
 publication = "6th JuliaCon Conference"

@@ -23,7 +23,7 @@ main:
     url: '#accomplishments'
     weight: 6
   - name: Blog
-    url: '#blog'
+    url: 'blog'
     weight: 7
 
 # Link to a PDF of your resume/CV from the menu.
